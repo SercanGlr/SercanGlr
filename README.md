@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.thenewstack.io/media/2024/04/45a985ed-software-development-1024x588.png)
+![MasterHead](https://media.istockphoto.com/id/1058262630/tr/vekt%C3%B6r/yarat%C4%B1l%C4%B1%C5%9F-duyarl%C4%B1-internet-web-sitesi-i%C3%A7in-birden-%C3%A7ok-platform-mobil-aray%C3%BCz-diz%C3%BCst%C3%BC.jpg?s=612x612&w=0&k=20&c=9qiddiNb37xVzta2GYps82MbjSzxGpUbej0j8mXaWbs=)
 <h1 align="center">Hi 👋, I'm Sercan Güler</h1>
 <h3 align="center">A software engineering student from Turkiye</h3>
 
