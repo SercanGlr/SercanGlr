@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sercan Güler</h1>
 <h3 align="center">A software engineering student from Turkiye</h3>
 
-- 🔭 I’m currently working on **Networking and Cyber Security**
+- 🔭 I’m currently working on **Back-end Development**
 
-- 🌱 I’m currently learning **Back-end Development**
+- 🌱 I’m currently learning **Networking and Cyber Security**
 
 - 🤝 I’m looking for help with **Networking**
 
