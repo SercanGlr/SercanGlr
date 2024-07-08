@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQE743j7SEIyXw/profile-displaybackgroundimage-shrink_350_1400/0/1720260228758?e=1725494400&v=beta&t=JEw-0mk6plEhXmZQX7Cfb2csScC7dtWt1w7bRwHw_m4)
-<h1 align="center">Hi 👋, I'm Sercan Güler</h1>
+<h1 align="center">Hi 👋, I'm Sercan Guler</h1>
 <h3 align="center">A software engineering student from Turkiye</h3>
 
 - 🔭 I’m currently working on **Back-end Development**
