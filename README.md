@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/v2/D4D16AQE743j7SEIyXw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720260228758?e=1732752000&v=beta&t=rd9a1qwh0JXzE5qpqBJMuOg5UcNx5wkIc6I0ccWX4IA])
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE743j7SEIyXw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720260228758?e=1732752000&v=beta&t=rd9a1qwh0JXzE5qpqBJMuOg5UcNx5wkIc6I0ccWX4IA)
 <h1 align="center">Hi 👋, I'm Sercan Guler</h1>
 <h3 align="center">A software engineering student from Turkiye</h3>
 
